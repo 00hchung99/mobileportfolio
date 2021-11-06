@@ -1,0 +1,8 @@
+a:link{
+    color: purple;
+    text-decoration: underline;
+}
+a:visited{
+    color: #ffc0cb;
+    text-decoration: none;
+}
